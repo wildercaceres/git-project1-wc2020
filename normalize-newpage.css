@@ -1,0 +1,191 @@
+/* responsive design */
+/* IPHONE 6/7/8 PLUS RESPONSIVE DESIGN */
+@media(max-width:450px){
+    nav{
+        align-content: center;
+        width: 100%;
+        height: 100px;
+    }
+nav .left-side{
+    height: fit-content;
+    width: 50%;
+}
+.left-side img{
+
+    width: 75px;
+    height: 35px;
+    margin-top: 25px;
+}
+nav .left-side .tittle-logo{
+    font-size: 10px;
+    margin-top: 30px;
+
+}
+.container{
+    margin-top: 10px;
+}
+.right-side-list li{
+    margin-top: 35px;
+}
+.right-side-list li a{
+    margin-right: 0px;
+    font-size: 10px;
+}
+nav .right-side-list{
+    height: 100px;
+    padding: 5px;
+    width: fit-content;
+}
+.container .tittle-container{
+font-size: 15px;
+}
+.container .main-container .list-container{
+    margin: 15px 40px 20px 45px;
+}
+.right-side .right-side-list  li{
+    font-size: 5px;
+    width: 50%;
+    height: fit-content;
+   
+}
+
+body .main-container{
+    flex-direction: column;
+    padding: 5px;
+}
+.right-side-list{
+    width: max-content;
+}
+.main-container{
+    display: inline;
+}
+}
+/* IPHONE 6/7/8 PLUS RESPONSIVE DESIGN */
+/* responsive design */
+
+/* IPHONE 6/7/8  X RESPONSIVE DESIGN */
+@media(max-width:380px){
+    nav{
+        align-content: center;
+        width: 100%;
+        height: 80px;
+    }
+nav .left-side{
+    height: fit-content;
+    width: 50%;
+}
+.left-side img{
+
+    width: 70px;
+    height: 30px;
+    margin-top: 25px;
+}
+nav .left-side .tittle-logo{
+    font-size: 10px;
+    margin-top: 25px;
+
+}
+.container{
+    margin-top: 10px;
+}
+.right-side-list li{
+    margin-top: 30px;
+}
+.right-side-list li a{
+    margin-right: 0px;
+    font-size: 8px;
+}
+nav .right-side-list{
+    height: 100px;
+    padding: 5px;
+    width: fit-content;
+}
+.container .tittle-container{
+font-size: 15px;
+}
+.container .main-container .list-container{
+    margin: 10px 20px 20px 30px;
+}
+.right-side .right-side-list  li{
+    font-size: 5px;
+    width: 50%;
+    height: fit-content;
+   
+}
+
+body .main-container{
+    flex-direction: column;
+    padding: 5px;
+}
+.right-side-list{
+    width: max-content;
+}
+.main-container{
+    display: inline;
+}
+}
+/* IPHONE 6/7/8 RESPONSIVE DESIGN */
+
+
+/* IPHONE 5/SE 1ra RESPONSIVE DESIGN */
+@media(max-width:320px){
+    nav{
+        align-content: center;
+        width: 100%;
+        height: 80px;
+    }
+nav .left-side{
+    height: fit-content;
+    width: 50%;
+}
+.left-side img{
+
+    width: 70px;
+    height: 30px;
+    margin-top: 25px;
+}
+nav .left-side .tittle-logo{
+    font-size: 10px;
+    margin-top: 25px;
+
+}
+.container{
+    margin-top: 10px;
+}
+.right-side-list li{
+    margin-top: 30px;
+}
+.right-side-list li a{
+    margin-right: 0px;
+    font-size: 8px;
+}
+nav .right-side-list{
+    height: 100px;
+    padding: 5px;
+    width: fit-content;
+}
+.container .tittle-container{
+font-size: 20px;
+}
+.container .main-container .list-container{
+    margin: 10px 0px 0px 5px;
+}
+.right-side .right-side-list  li{
+    font-size: 5px;
+    width: 50%;
+    height: fit-content;
+   
+}
+
+body .main-container{
+    flex-direction: column;
+    padding: 5px;
+}
+.right-side-list{
+    width: max-content;
+}
+.main-container{
+    display: inline;
+}
+}
+/* IPHONE 5/SE RESPONSIVE DESIGN */
